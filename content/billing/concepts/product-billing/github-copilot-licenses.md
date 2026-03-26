@@ -1,4 +1,4 @@
----
+bnf---
 title: GitHub Copilot licenses
 intro: 'Learn how licenses for {% data variables.product.prodname_copilot_short %} work, including usage measurement and managing your budget.'
 versions:
